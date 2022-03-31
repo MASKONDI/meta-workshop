@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fortnite: Lara Croft
+* source:	https://sketchfab.com/3d-models/fortnite-lara-croft-784511309e42495b8c4b592e476c7cd1
+* author:	EWTube0 (https://sketchfab.com/EWTube0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fortnite: Lara Croft" (https://sketchfab.com/3d-models/fortnite-lara-croft-784511309e42495b8c4b592e476c7cd1) by EWTube0 (https://sketchfab.com/EWTube0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

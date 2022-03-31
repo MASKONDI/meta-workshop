@@ -1,0 +1,11 @@
+Model Information:
+* title:	Helena Red Dress
+* source:	https://sketchfab.com/3d-models/helena-red-dress-faae419647bb4205b3e611e751148234
+* author:	Ameer Studio (https://sketchfab.com/uchiha.321abc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Helena Red Dress" (https://sketchfab.com/3d-models/helena-red-dress-faae419647bb4205b3e611e751148234) by Ameer Studio (https://sketchfab.com/uchiha.321abc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
